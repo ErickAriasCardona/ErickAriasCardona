@@ -1,0 +1,16 @@
+# .github/recent-activity.config.yml
+token: ${{ secrets.GITHUB_TOKEN }}
+
+# número de actividades recientes que se mostrarán
+max: 5  
+
+# dónde insertar las actividades (entre comentarios en tu README)
+commit:
+  message: "⚡ Actualizando actividad reciente"
+  files:
+    - README.md
+
+# delimitadores para el README
+markers:
+  start: "<!--RECENT_ACTIVITY:start-->"
+  end: "<!--RECENT_ACTIVITY:end-->"
