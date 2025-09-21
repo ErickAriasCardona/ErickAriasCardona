@@ -16,12 +16,16 @@ Enfocado en **metodologías ágiles (SCRUM)**, liderazgo y trabajo en equipo.
 
 ---
 
-### 📈 Actualmente
-- Mejorando mis proyectos en **React y Node.js**  
-- Explorando nuevas tecnologías y buenas prácticas de desarrollo  
+### 📈 Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 ---
 
 ### 📫 Contáctame
 ![Website](https://img.shields.io/website)
+
+
 
