@@ -3,7 +3,7 @@
 ## 💻 Desarrollador Full Stack
 
 Apasionado por el desarrollo web y el aprendizaje continuo.  
-Experiencia en **JavaScript, React, Angular, Python, Java y MySQL**.  
+Experiencia en **JavaScript, React, Python, Java y MySQL**.  
 Enfocado en **metodologías ágiles (SCRUM)**, liderazgo y trabajo en equipo.
 
 ---
