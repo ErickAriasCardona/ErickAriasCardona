@@ -47,14 +47,6 @@ Experiencia con **JavaScript, React, Java, Python, Node.js y MySQL**, con enfoqu
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickAriasCardona&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAriasCardona&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contáctame
 
 [![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge)](mailto:eariassena19@gmail.com)  
