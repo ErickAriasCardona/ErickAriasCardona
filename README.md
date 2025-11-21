@@ -25,7 +25,6 @@ Experiencia con **JavaScript, React, Java, Python, Node.js y MySQL**, con enfoqu
 
 ### **Bases de datos**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Herramientas y otros**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -37,13 +36,12 @@ Experiencia con **JavaScript, React, Java, Python, Node.js y MySQL**, con enfoqu
 
 ## 🚀 Proyectos Destacados
 
-### 🔹 Sistema de Gestión de Formación Complementaria (SGFC)
+### 🔹 Sistema de Gestión de Formación Complementaria (SGFC SENA)
 **Full Stack / Líder Técnica**  
 - Backend: Node.js + Express + Sequelize  
 - Frontend: React  
 - BD: MySQL  
 - Gestión con SCRUM  
-👉 *Próximamente link al repositorio.*
 
 ---
 
