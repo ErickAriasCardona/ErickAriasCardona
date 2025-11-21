@@ -37,7 +37,7 @@ Experiencia con **JavaScript, React, Java, Python, Node.js y MySQL**, con enfoqu
 ## 🚀 Proyectos Destacados
 
 ### 🔹 Sistema de Gestión de Formación Complementaria (SGFC SENA)
-**Full Stack / Líder Técnica**  
+**Full Stack / Líder Técnico**  
 - Backend: Node.js + Express + Sequelize  
 - Frontend: React  
 - BD: MySQL  
