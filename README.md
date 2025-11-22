@@ -41,7 +41,13 @@ Experiencia con **JavaScript, React, Java, Python, Node.js y MySQL**, con enfoqu
 - Backend: Node.js + Express + Sequelize  
 - Frontend: React  
 - BD: MySQL  
-- Gestión con SCRUM  
+- Gestión con SCRUM
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAriasCardona&layout=compact&theme=tokyonight)
 
 ---
 
